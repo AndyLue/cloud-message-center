@@ -26,13 +26,13 @@
     </licenses>
     <scm>
         <tag>master</tag>
-        <url>git@gitee.com/zhejiangyuanyi/cloud-message-center.git</url>
-        <connection>scm:git:git@gitee.com/zhejiangyuanyi/cloud-message-center.git</connection>
-        <developerConnection>scm:git:git@gitee.com/zhejiangyuanyi/cloud-message-center.git</developerConnection>
+        <url>git@github.com/AndyLue/cloud-message-center</url>
+        <connection>scm:git:git@github.com/AndyLue/cloud-message-center</connection>
+        <developerConnection>scm:git:git@github.com/AndyLue/cloud-message-center</developerConnection>
     </scm>
     <developers>
         <developer>
-            <name>andyliu008</name>
+            <name>AndyLue</name>
             <email>85298826@qq.com</email>
             <organization>assetcloud</organization>
         </developer>
