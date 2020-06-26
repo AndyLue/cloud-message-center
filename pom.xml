@@ -10,7 +10,7 @@
         <version>7</version>
     </parent>
 
-    <groupId>com.zstars.message.center</groupId>
+    <groupId>cn.com.zstars</groupId>
     <artifactId>cloud-message-center</artifactId>
     <version>2.0.3</version>
     <packaging>pom</packaging>
@@ -101,7 +101,7 @@
             </dependency>
 
             <dependency>
-                <groupId>com.zstars.message.center</groupId>
+                <groupId>cn.com.zstars</groupId>
                 <artifactId>cloud-message-spring-boot-parent</artifactId>
                 <version>${cloud.message.version}</version>
             </dependency>
